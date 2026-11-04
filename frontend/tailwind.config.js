@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{js,jsx}'], theme: { extend: { colors: { bg: 'var(--bg)', panel: 'var(--panel)', panel2: 'var(--panel2)', line: 'var(--line)', txt: 'var(--text)', muted: 'var(--muted)', brand: '#3b82f6', violet: '#8b5cf6' }, fontFamily: { sans: ['Inter', 'system-ui', 'Segoe UI', 'sans-serif'] } } }, plugins: [] };
